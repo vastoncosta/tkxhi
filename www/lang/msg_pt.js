@@ -50,6 +50,6 @@ var MSG = {
   badXml: "XML erro de análise: \n %1 \n\nSelecionar 'OK' para abortar suas mudanças ou 'Cancel' para continuar editando o XML.",
   arduino_card: "Carregar as configuraççoes da placa",
   aboutModalLabel: "Sobre",
-  aboutBody: "Esta é uma linguagem de programação visual de código aberto e gratuita baseado no Blockly do Google. Os códigos do Arduino são criados apenas pela combinação dos blocos e, em seguida, são compilados (verificados) e finalmente carregados no robô Otto.",
+  aboutBody: "Esta é uma linguagem de programação visual de código aberto e gratuita baseado no Blockly do Google. Os códigos do Arduino são criados apenas pela combinação dos blocos e, em seguida, são compilados (verificados) e finalmente carregados para o TurTle-T",
   nanoWarning: "Está com problemas para enviar para a placa Arduino Nano (a operação de upload atinge o tempo limite)? Tente selecionar uma variante diferente da placa (Regular / Old bootloader / Every), de acordo com o que você possui. Alguns são visualmente idênticos (gerenciador de inicialização antigo e novo)!"
 };

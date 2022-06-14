@@ -17,6 +17,7 @@
 				<block type="move_back"></block>
 				<block type="break_turtle"></block>	
 				<block type="move_front_vel"></block>
+				<block type="move_front_ve_time"></block>
 				<block type="move_right_ve_time"></block>
 				<block type="move_left_ve_time"></block>
 				<!-- <block type="motor_run"><value name="CONTENT"><shadow type="math_number"><field name="NUM">0</field></shadow></value></block>
